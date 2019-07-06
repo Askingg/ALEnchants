@@ -1,0 +1,10 @@
+#TokenBalances
+multipliers:
+  eternal: 0.5
+  immortal: 0.4
+  reaper: 0.3
+  resurrected: 0.2
+  sinner: 0.15
+  decaying: 0.1
+  dead: 0.05
+tokens: {}

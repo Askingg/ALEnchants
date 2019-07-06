@@ -1,0 +1,16 @@
+name: ALEnchant
+author: Synysterrr
+version: 1.0
+main: me.syn.alenchant.main.Main
+description: TokenEnchanting Core for AfterLife
+
+commands:
+  altokens:
+   aliases: [altoken, token]
+   description: Tokens Base Command
+  alcustomenchant:
+   aliases: [alce, customenchant, ce]
+   description: CustomEnchant Base Command
+  alcombo:
+   aliases: [combo]
+   description: Combo Base Command
